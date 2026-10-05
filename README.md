@@ -3,6 +3,12 @@
 Binary classification model to detect malignant vs. benign breast tumors using 
 Logistic Regression and dimensionality reduction techniques.
 
+### Version
+
+*en: English
+
+*es: Spanish
+
 ## Problem Statement
 
 Early and accurate detection of breast cancer is critical to improve patient outcomes. 
